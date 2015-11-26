@@ -1,0 +1,30 @@
+Insight -> Hipotesis -> Prototipo 						<---
+						Observación, retroalimentación		|
+						Corrección -------------------------
+
+
+Hipótesis priorizadas.
+Concepto inicial claro.
+Haber validado la hipótesis mas riesgosa.
+
+ - Próxima semana -
+Repositorio GitHub.
+Inicio del spring 0.
+Revisar las hipótesis y darles formato.
+
+Historia de usuario:
+Ex. "Como un niño yo quiero compartir mis eventos del día con mi padre"
+Independientes, negociables, medibles, son pequeñas, testeables.
+
+Para el primer spring:
+	Objetivos del spring.
+	Inicio 3 -17 de Diciembre
+	Presentación final 4 de Feb
+	Poster 8 de Feb
+
+ - Próxima clase -
+	Historias de usuario para el 1er Spring.
+	17 de Diciembre. demo day! del 1er Spring.
+	Dividir nuestra hipótesis en varias hipótesis más discretas.
+	
+	
