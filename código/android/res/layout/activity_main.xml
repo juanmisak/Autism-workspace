@@ -1,0 +1,110 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Main" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="17dp"
+        android:layout_marginTop="15dp"
+        android:text="@string/connexion" />
+
+    <ToggleButton
+        android:id="@+id/tgOnOff5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tgOnOff6"
+        android:layout_below="@+id/tgOnOff6"
+        android:text="@string/connect"
+        android:textOff="OFF"
+        android:textOn="ON" />
+
+    <ToggleButton
+        android:id="@+id/tgOnOff3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tgOnOff5"
+        android:layout_below="@+id/tgOnOff5"
+        android:text="@string/connect"
+        android:textOff="OFF"
+        android:textOn="ON" />
+
+    <ToggleButton
+        android:id="@+id/tgOnOff7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tgOnOff3"
+        android:layout_below="@+id/tgOnOff3"
+        android:text="@string/connect"
+        android:textOff="OFF"
+        android:textOn="ON" />
+
+    <Button
+        android:id="@+id/connect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_centerHorizontal="true"
+        android:text="@string/connect" />
+
+    <ToggleButton
+        android:id="@+id/tgOnOff6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/tgOnOff"
+        android:layout_alignBottom="@+id/tgOnOff"
+        android:layout_alignRight="@+id/connect"
+        android:text="@string/connect"
+        android:textOff="OFF"
+        android:textOn="ON" />
+
+    <ToggleButton
+        android:id="@+id/tgOnOff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/connect"
+        android:layout_below="@+id/connect"
+        android:text="@string/connect"
+        android:textOff="OFF"
+        android:textOn="ON" />
+
+    <ToggleButton
+        android:id="@+id/tgOnOff2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/connect"
+        android:layout_below="@+id/tgOnOff"
+        android:text="@string/connect"
+        android:textOff="OFF"
+        android:textOn="ON" />
+
+    <ToggleButton
+        android:id="@+id/tgOnOff4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/connect"
+        android:layout_below="@+id/tgOnOff2"
+        android:text="@string/connect"
+        android:textOff="OFF"
+        android:textOn="ON" />
+
+    <ToggleButton
+        android:id="@+id/tgOnOff1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/connect"
+        android:layout_below="@+id/tgOnOff4"
+        android:text="@string/connect"
+        android:textOff="OFF"
+        android:textOn="ON" />
+
+</RelativeLayout>
