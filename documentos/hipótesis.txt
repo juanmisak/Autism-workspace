@@ -2,18 +2,17 @@
 HIPÓTESIS
 ---------
 
-Creemos que si desarrollamos un juguete sensorial para el padre y el niño autista, aumentará la interacción entre ellos lo cual será visualmente medible.
+1. Creemos que si desarrollamos un juguete sensorial para el padre y el niño autista, aumentará la interacción entre ellos lo cual será visualmente medible. [sprint 1]
 
-Creemos que si empoderamos a los padres con un juguete que estimule visualmente al niño con autismo, los padres podran enseñarles mejor, sabremos que sirve si los padres notan efectividad en la enseñanza.
+2. Creemos que si empoderamos a los padres con un juguete que estimule visualmente al niño con autismo, los padres podran enseñarles mejor, sabremos que sirve si los padres notan efectividad en la enseñanza.[sprint 3]
 
-Creemos que si le proporcionamos un espacio de trabajo estimulante sensorialmente para padres y niños con autismo, ellos podrán mejorar su vínculo socio-afectivo, lo cual será medido con una sensación de bienestar.
+3. Creemos que si le proporcionamos un espacio de trabajo estimulante sensorialmente para padres y niños con autismo, ellos podrán mejorar su vínculo socio-afectivo, lo cual será medido con una sensación de bienestar. [sprint 2]
 
-Creemos que desarrollando una herramienta de bajo costo, para todas las familias donde haya niños con autismo podremos facilitar la enseñanza de ciertos temas, lo cual será medido por el padre, por la facilidad con la que llega al niño.
+4. Creemos que desarrollando una herramienta de bajo costo, para todas las familias donde haya niños con autismo podremos facilitar la enseñanza de ciertos temas, lo cual será medido por el padre, por la facilidad con la que llega al niño.[sprint 3]
 
-Creemos que si dotamos de un juguete audiovisual a los padres de niños con autismo, podremos captar fácilmente la atención del niño, lo cuál será medido con la percepción que tiene el padre respecto a la facilidad de la enseñanza.
+5. Creemos que si dotamos de un juguete audiovisual a los padres de niños con autismo, podremos captar fácilmente la atención del niño, lo cuál será medido con la percepción que tiene el padre respecto a la facilidad de la enseñanza.[sprint 1]
 
-Creemos que si dotamos de una herramienta a los padres de niños con autismo, ellos podrán ejercitar sus habilidades motrices finas y gruesas, lo cual será medido por la mejora de ésta habilidad.
+6. Creemos que si dotamos de una herramienta a los padres de niños con autismo, ellos podrán ejercitar sus habilidades motrices finas y gruesas, lo cual será medido por la mejora de ésta habilidad. [sprint 2]
 
-Creemos que si desarrollamos un juguete de bajo costo que estimule las áreas sensoriales de los niños con autismo, los padres podrán captar la atención de sus niños con mayor facilidad, lo cual será medido por la disminución del tiempo que le toma tener la atención de los mismos.
-
+7. Creemos que si desarrollamos un juguete de bajo costo que estimule las áreas sensoriales de los niños con autismo, los padres podrán captar la atención de sus niños con mayor facilidad, lo cual será medido por la disminución del tiempo que le toma tener la atención de los mismos. [sprint 3]
 
