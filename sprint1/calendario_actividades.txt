@@ -1,0 +1,26 @@
+Reuniones con el usuario:
+ 9 Dic 
+ 10 Dic 
+ 16 Dic 
+ 17 Dic
+
+Dias de stand up meeting:
+ Todos los días 10pm.
+
+Visitas al product owner:
+ 7 Dic
+ 14 Dic
+
+Pruebas de avances:
+ Las pruebas de avance se realizarán los mismos días de reuniones con el usuario.
+
+Días de trabajo:
+ Martes a Sábado
+
+Horas de trabajo individual:
+ Juan: 4 horas diarias, los jueves 6 horas.
+ Hernán: 4 horas diarias. Los martes 5 horas.
+
+Horas de trabajo en grupo:
+ Jueves presencial 4 horas, martes via skype 1 hora.
+
