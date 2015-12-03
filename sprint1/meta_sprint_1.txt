@@ -1,0 +1,11 @@
+-----------------
+META DEL SPRINT 1
+-----------------
+
+1. Integrar en un jugete varias formas de estímulación sensorial para el niño, de tal forma que se pueda identificar el estímulo que más capte su atención.
+
+2. Seleccionar componentes como texturas, colores, luces, sonidos adecuados para la construcción del prototipo.
+
+3. Evaluar los prototipos con educadores y niños para obtener retroalimentación.
+
+4. Probar los prototipos con niños con 2do y 3er nivel de autismo.
