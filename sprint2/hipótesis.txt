@@ -4,4 +4,16 @@ HIPÓTESIS PARA EL SPRINT 2
 
 1. Creemos que si le proporcionamos un espacio de trabajo colaborativo y estimulante sensorialmente para padres y niños con autismo, ellos podrán mejorar su vínculo socio-afectivo, lo cual será medido con una sensación de bienestar. [sprint 2]
 
-2. Creemos que si dotamos de una herramienta colaborativa a los padres de niños con autismo, ellos podrán ejercitar sus habilidades motrices finas y gruesas, lo cual será medido por la mejora de ésta habilidad.
+2. Creemos que si dotamos de una herramienta colaborativa a los padres de niños con autismo, ellos podrán ejercitar sus habilidades motrices finas, lo cual será medido por la mejora de ésta habilidad.
+
+3. Creemos que si le proporcionamos a los padres una herramienta colaborativa en donde se los involucre directamente con la enseñanza del niño, se logrará crear un vínculo socio-afectivo y efectivizará la facilidad de la enseñanza.
+
+4. Creemos que si creeamos un espacio de trabajo en donde la atención del niño sea captada a través estímulos sensoriales pre-configurados, lograremos que el niño fije su atención a donde el padre lo requiera, de éste modo, efectivizar la enseñanza, lo cuál será medido con la percepción de facilidad que tiene el padre con respecto a la captación de la atención del niño.
+
+5. Creemos que si desarrollamos un tablero sensorial colaborativo, tanto padres como niños TEA, tendran un espacio para interactuar, en el cual podrá facilitarse la enseñanza, ésto será así si se nota una captación de la atención del niño.
+
+6. Creemos que si desarrollamos un tablero sensorial colaborativo, en el cual mediante botones, se porporciona estímulos de recompensa/castigo al niño con TEA por el trabajo realizado en la actividad en ejecución.
+
+7. Creemos que si desarrollamos un tablero sensorial colaborativo, el cual reaccione por sí solo a ciertas acciones del niño, el padre tendrá algo de tiempo libre para preparar otras actividades sobre el tablero.
+
+8. Creemos que si precargamos al tablero actividades para ejercitar motricidad fina del niño con TEA, ayudará a los padres a disponer del juguete al instante.
